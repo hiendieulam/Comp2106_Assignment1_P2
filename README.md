@@ -36,7 +36,6 @@
   - Fill in your information on the form to contact with me.
 
 
-- My Link: https://comp2106-assignment-1.herokuapp.com
-           https://www.hienlam.ca/
+- My Link: https://comp2106-assignment-1.herokuapp.com - https://www.hienlam.ca/
 
 
