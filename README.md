@@ -10,6 +10,8 @@
   - About Me
 
   - Services Page
+  
+  - Projects Page
 
   - Contact Me
 
