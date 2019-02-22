@@ -26,16 +26,16 @@ block content
 						span.sr-only Next
 				// #carousel
 
-			#pistilligallery.container
-				//Heading
-				.row
-					.col-lg-12.text-center
-						h5.jewelrygallery SOME OF MY PROJECTS
-				// The project information
-				.row
-					.col-lg-3.col-md-6.col-sm-12.pistilligallery-item
-						img.img-fluid(src=`../${project.image}`, alt=`${project.title}`)
-						.pistilligallery-caption
-							h3.text-muted= project.title				
+	#pistilligallery.container
+		//Heading
+		.row
+			.col-lg-12.text-center
+				h5.jewelrygallery SOME OF MY PROJECTS
+		// The project information
+		.row
+			.col-lg-3.col-md-6.col-sm-12.pistilligallery-item
+				img.img-fluid(src=`../${project.image}`, alt=`${project.title}`)
+				.pistilligallery-caption
+					h3.text-muted= project.title				
 
 	script(src='javascripts/custom.js')
