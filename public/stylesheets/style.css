@@ -9,6 +9,15 @@ body {
 /** Image responsiveness when changing the device used **/
 img {
 	width: 100%;
+	border: 1px solid #C2C2C2;
+}
+img.img-fluid {
+	border: 1px solid #C2C2C2;
+	box-shadow: 1px -1px 2px -1px #999;
+}
+img.img-fluid:hover{
+	border: 1px solid #cc9933;
+	box-shadow: 1px -1px 2px -1px #999;
 }
 
 nav.navbar {
